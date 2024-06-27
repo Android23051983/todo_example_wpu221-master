@@ -20,34 +20,18 @@ body {
 }
 
 main {
-    margin: auto;
-    width: 50%;
+    margin: auto 13px;
+    width: 65%;
     float: left;
 }
 aside {
-    width: 20%;
-    margin: auto 10%;
-    float: left;
+    width: 25%;
+    margin: 13px;
+    float: right;
 }
 
 main .table {
     background-color: #999;
-}
-
-form input, 
-form textarea, 
-form select, 
-form button {
-    width: 90%;
-    padding: 15px 5%;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 300;
-    margin-bottom: 10px;
-    border: 0;
-    background: #222;
-    color: #fff;
-    outline: none;
-    font-size: 15px;
 }
 
 form button:hover {
